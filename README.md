@@ -12,7 +12,7 @@ An interactive Machine Learning web app that predicts whether Kobe Bryant's shot
 ## 🚀 Live Demo
 
 🔗 **Deployed Here**:  
-👉 [nba-shot-prediction.streamlit.app](https://nba-shot-prediction.streamlit.app)
+👉 [nba-shot-prediction.streamlit.app](https://nba-short-selection.streamlit.app/)
 
 ---
 
@@ -93,14 +93,14 @@ nba-shot-prediction/
 🌐 Deployment
 ✅ Hosted on Streamlit Cloud
 
-🔗 Live App : https://nba-shot-prediction.streamlit.app
+🔗 Live App : https://nba-short-selection.streamlit.app/
 
 📂 GitHub: [nba-shot-prediction](https://github.com/SuyogDeepMind/Nba-Shot-Prediction)
 
 ### 👨‍💻 Author  
-**Suyog Manke**  
+**Yash Shingare**  
 💼 Aspiring Data Scientist  
-📫 Email: suyogmanke4@gmail.com  
+📫 Email: yashshingare4200@gmail.com  
 🔗 [LinkedIn](https://www.linkedin.com/in/suyogmanke/)  
 🔗 [GitHub](https://github.com/SuyogDeepMind?tab=repositories)  
 
