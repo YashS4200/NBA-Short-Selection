@@ -101,7 +101,7 @@ nba-shot-prediction/
 **Yash Shingare**  
 💼 Aspiring Data Scientist  
 📫 Email: yashshingare4200@gmail.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/suyogmanke/)  
+🔗 [LinkedIn](http://www.linkedin.com/in/yash-shingare)  
 🔗 [GitHub](https://github.com/SuyogDeepMind?tab=repositories)  
 
 ---
