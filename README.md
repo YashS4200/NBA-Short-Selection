@@ -95,14 +95,14 @@ nba-shot-prediction/
 
 🔗 Live App : https://nba-short-selection.streamlit.app/
 
-📂 GitHub: [nba-shot-prediction](https://github.com/SuyogDeepMind/Nba-Shot-Prediction)
+📂 GitHub: [nba-shot-prediction](https://github.com/YashS4200?tab=repositories)
 
 ### 👨‍💻 Author  
 **Yash Shingare**  
 💼 Aspiring Data Scientist  
 📫 Email: yashshingare4200@gmail.com  
 🔗 [LinkedIn](http://www.linkedin.com/in/yash-shingare)  
-🔗 [GitHub](https://github.com/SuyogDeepMind?tab=repositories)  
+🔗 [GitHub](https://github.com/YashS4200?tab=repositories)  
 
 ---
 
